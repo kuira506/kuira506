@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kuira506
+- 👋 Hi, I’m @kuira506(Achieng Kuir)
 - 👀 I’m interested in meeting people and learning new things
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on projects
